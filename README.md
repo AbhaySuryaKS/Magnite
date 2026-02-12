@@ -1,2 +1,2 @@
-- AI Powered IDE For VibeCoding
-- Under Development
+# AI Powered IDE For VibeCoding
+## Under Development
